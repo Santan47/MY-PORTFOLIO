@@ -226,10 +226,14 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-image: url('/var/www/html/MY-PORTFOLIO/back-img/abraham_lincoln_vampire_hunter-wallpaper-1366x768.jpg');
 =======
   background-image: url('/home/santan/Documents/shangharsh./MY-PORTFOLIO/back-img/abraham_lincoln_vampire_hunter-wallpaper-1366x768.jpg');
 >>>>>>> origin/master
+=======
+  background-image: url('/home/santan/Documents/shangharsh./MY-PORTFOLIO/back-img/abraham_lincoln_vampire_hunter-wallpaper-1366x768.jpg');
+>>>>>>> 1e94a08453ef4232b64be88f5d8e1a3b194988b4
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
