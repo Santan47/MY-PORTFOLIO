@@ -9,6 +9,9 @@ body {
 .text-primary {
   color: #fed136;
 }
+.yell{
+  color: yellow;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
@@ -176,7 +179,7 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: white;
+  color: #fed136;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
@@ -225,7 +228,7 @@ fieldset[disabled] .btn-xl.active {
 	font-family: 'Sofia';font-size: 22px;
 }
 header {
-  background-image: url('/var/www/html/MY-PORTFOLIO/back-img/abraham_lincoln_vampire_hunter-wallpaper-1366x768.jpg');
+  background-image: url('/home/santan/Documents/shangharsh./MY-PORTFOLIO/back-img/abraham_lincoln_vampire_hunter-wallpaper-1366x768.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
